@@ -4,7 +4,7 @@ A servo motor is a type of motor that is designed to provide precise control of 
 The key feature of a servo motor is its ability to maintain a particular position, even under load or when external forces are applied. This is accomplished through the use of a closed-loop control system that includes a feedback mechanism which provides information about the motor's actual position. The feedback signal is compared to the desired position, and the servo motor adjusts its output accordingly to maintain the desired position.
   
 ├ src  
-│  ├ angles 
+│  ├ angles  
 │  └ pulse  
 └ schema  
 

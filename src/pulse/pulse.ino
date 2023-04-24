@@ -1,11 +1,15 @@
+// -------------------------------------------------
+// Copyright (c) 2023 HiBit <https://www.hibit.dev>
+// -------------------------------------------------
+
 #include "Servo.h"
 
 #define SERVO1_PIN 9
 
-#define MIN_MS 550
-#define MAX_MS 2400
+#define MIN_MS 0
+#define MAX_MS 2000
 
-#define DEFAULT_MS 1475 //90 degrees
+#define DEFAULT_MS 1000 //90 degrees
 
 int servoPulse = DEFAULT_MS;
 

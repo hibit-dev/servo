@@ -5,7 +5,8 @@ The key feature of a servo motor is its ability to maintain a particular positio
   
 ├ src  
 │  ├ angles  
-│  └ pulse  
+│  ├ pulse  
+│  └ pt  
 └ schema  
 
 ## Documentation

@@ -7,9 +7,9 @@
 #define SERVO_PAN_PIN 9
 #define SERVO_TILT_PIN 10
 
-#define MIN_ANGLE 1
-#define MID_ANGLE 83
-#define MAX_ANGLE 178
+#define MIN_ANGLE 0
+#define MID_ANGLE 90
+#define MAX_ANGLE 180
 
 #define DEFAULT_PAN_ANGLE 0
 #define DEFAULT_TILT_ANGLE 0

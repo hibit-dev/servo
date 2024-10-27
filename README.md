@@ -10,7 +10,13 @@ The key feature of a servo motor is its ability to maintain a particular positio
 └ schema  
 
 ## Documentation
-You'll find instructions and full documentation on [HiBit](https://www.hibit.dev/posts/101/how-to-control-servo-motor-with-arduino). It includes detailed info on how to wire and use the module.
+Discover a world of knowledge hosted on [HiBit](https://www.hibit.dev). Serving as your informational hub, this resource offers clear instructions and valuable insights to explore a spectrum of articles, tutorials, stories, news, and beyond.  
+
+You'll find detailed instructions and comprehensive documentation for this repository on:
+- [How to control servo motor with Arduino](https://www.hibit.dev/posts/101/how-to-control-servo-motor-with-arduino)
+- [Servo controlled pan and tilt platform](https://www.hibit.dev/posts/204/servo-controlled-pan-and-tilt-platform)
+
+The documentation offers clear guidance on wiring and using the device, providing practical insights for a smooth integration into your projects. Take a closer look at the documentation to enhance your understanding, and don't hesitate to reach out for any specific guidance or support.
 
 ## Security
 If you discover any security related issues, please email security@hibit.dev instead of using the issue tracker.
